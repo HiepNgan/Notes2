@@ -10,3 +10,5 @@
 - Ctrl-A (select all)
 - Win-D (show desktop)
 - Ctrl-Shift-T (reopen closed tab)
+
+[CLI commands](docs/cli.md)
