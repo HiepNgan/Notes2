@@ -12,3 +12,4 @@
 - Ctrl-Shift-T (reopen closed tab)
 
 [CLI commands](docs/cli.md)
+This is done as part of lab6
